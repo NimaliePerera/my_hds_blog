@@ -1,5 +1,5 @@
 ---
-title: "Welcome To My Blog"
+title: "welcome To My Blog"
 author: "Nimalie Perera"
 date: "2025-06-12"
 categories: [news]

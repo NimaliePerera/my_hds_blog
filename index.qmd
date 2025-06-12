@@ -1,5 +1,5 @@
 ---
-title: "Nimalie's Health Data Science Blog"
+title: "Nimalie's HDS [Health Data Science] Blog"
 listing:
   contents: posts
   sort: "date desc"
